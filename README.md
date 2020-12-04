@@ -30,5 +30,5 @@ import PropTypes from "prop-types";
 
 #### 📹 Workflow video of [MoonBank Wallet](https://youtu.be/L2yQqAn2gy4)
 <a href='https://youtu.be/L2yQqAn2gy4' target='_blank'>
-  <img width='30%' src='https://github.com/larts85/Wallet-Native/blob/master/assets/WhatsApp%20Image%202020-11-30%20at%2023.55.07.jpeg' alt='MoonBank' />
+  <img width='50%' src='https://github.com/larts85/Wallet-Native/blob/master/assets/WhatsApp%20Image%202020-11-30%20at%2023.55.07.jpeg' alt='MoonBank' />
 </a>
