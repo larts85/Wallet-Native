@@ -1,5 +1,6 @@
 /* ====================== IMPORTATIONS ========================= */
 import React, { useEffect, useState } from "react";
+import { Keyboard } from 'react-native'
 import Icon from "react-native-vector-icons/FontAwesome5";
 import {
   View,
@@ -175,6 +176,7 @@ const Home = ({ navigation }) => {
   };
 
   useEffect(() => {
+    Keyboard.dismiss();
     getSaldo();
     getDolares();
     getAllMovements();
